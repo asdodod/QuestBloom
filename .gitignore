@@ -1,0 +1,10 @@
+build/
+backups/
+extern/
+extern.cmake
+.cache/
+*.qmod
+*.so
+*.zip
+ndkpath.txt
+*.log
