@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>✨ QuestBloom</h1>
+<h1>QuestBloom</h1>
 
-**Bring the glow to Quest. Tune it your way.**
+**Mod that allows to enable bloom and control it.**
 
 [![Download](https://img.shields.io/badge/⬇_Download-QMOD-00c8f8?style=for-the-badge)](https://github.com/asdodod/QuestBloom/releases/latest)
 [![Patch notes](https://img.shields.io/badge/✦_Patch_Notes-0.1.3-e147ac?style=for-the-badge)](PATCH_NOTES.md)
@@ -17,22 +17,22 @@
 
 ---
 
-> 🤖 **THIS MOD WAS CREATED WITH AI.** AI was used to write and modify this mod.
+> **THIS MOD WAS CREATED WITH AI.** AI was used to write and modify this mod.
 
-## ✨ What is QuestBloom?
+## What is QuestBloom?
 
 Configurable **whole-game bloom** for Beat Saber on standalone Quest. Add glow to sabers, notes and environment lights, then adjust its strength, spread and quality in-game.
 
-| | Your glow, your settings |
+| | Features |
 | :--- | :--- |
-| 💡 **Enable / disable** | Toggle bloom whenever you want |
-| 🎚️ **Intensity** | Control how strong the glow looks |
-| 🌈 **Bloom size** | Adjust how far the glow spreads |
-| 🔍 **Quality** | Choose Standard, High or Ultra |
-| ⚔️ **VainSabers support** | Automatic compatibility with its glow materials |
-| 💾 **Live changes** | Settings apply immediately and save automatically |
+|  **Enable / disable** | Toggle bloom whenever you want |
+|  **Intensity** | Control how strong the glow looks |
+|  **Bloom size** | Adjust how far the glow spreads |
+|  **Quality** | Choose Standard, High or Ultra |
+|  **VainSabers support** | Automatic compatibility with its glow materials |
+|  **Live changes** | Settings apply immediately and save automatically |
 
-## 📥 Install
+##  Install
 
 1. Use a modded **Beat Saber 1.40.8_7379** installation with **Scotland2**.
 2. Download **QuestBloom.qmod** from [Releases](https://github.com/asdodod/QuestBloom/releases/latest).
@@ -40,7 +40,7 @@ Configurable **whole-game bloom** for Beat Saber on standalone Quest. Add glow t
 4. Restart Beat Saber and open **Settings → Mod Settings → QuestBloom**.
 5. Enable bloom and adjust it to taste.
 
-## 🎛️ Find your look
+##  Settings
 
 | Setting | Range / options | Default |
 | :--- | :--- | :--- |
@@ -53,13 +53,13 @@ Start with the defaults. Lower **Intensity** for a subtle glow; raise **Bloom si
 
 If another graphics mod also enables bloom, disable that bloom option before adjusting QuestBloom.
 
-## ⚔️ Works with VainSabers
+## Works with VainSabers
 
 [**VainSabers Quest**](https://github.com/asdodod/vsq-port) is optional. QuestBloom works across the game without it, and enables compatibility with VainSabers glow materials automatically while bloom is active.
 
 QuestBloom uses the game's Quest bloom renderer. It does not promise an identical copy of the PC bloom effect.
 
-## 🔧 Build from source
+## Build from source
 
 Requirements: **QPM**, **CMake 3.22+**, **Ninja**, **Android NDK r27** and **PowerShell 7**.
 
