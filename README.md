@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/banner.svg" alt="QuestBloom — bring the glow to Quest" width="100%" />
+<h1>✨ QuestBloom</h1>
 
 **Bring the glow to Quest. Tune it your way.**
 
