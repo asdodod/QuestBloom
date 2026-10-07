@@ -1,4 +1,4 @@
-# Patch notes
+# ✦ Patch notes
 
 ## 0.1.3
 

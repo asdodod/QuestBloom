@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">QuestBloom</title><desc id="desc">Soft cyan and pink lights against a dark background. Configurable whole-game bloom for Quest.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080c20"/><stop offset="1" stop-color="#17102c"/></linearGradient>
+    <radialGradient id="pink"><stop stop-color="#e147ac" stop-opacity=".7"/><stop offset="1" stop-color="#e147ac" stop-opacity="0"/></radialGradient>
+    <radialGradient id="cyan"><stop stop-color="#00c8f8" stop-opacity=".7"/><stop offset="1" stop-color="#00c8f8" stop-opacity="0"/></radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <circle cx="880" cy="135" r="156" fill="url(#pink)"/><circle cx="1060" cy="192" r="160" fill="url(#cyan)"/>
+  <g transform="translate(840 83) rotate(-18 65 65)"><rect width="130" height="130" rx="22" fill="#e147ac" fill-opacity=".12" stroke="#e147ac" stroke-width="6" filter="url(#glow)"/><rect width="130" height="130" rx="22" fill="#35142b" fill-opacity=".65" stroke="#ff7ccb" stroke-width="3"/><path d="M35 45H95L65 79Z" fill="#ffe9f7"/></g>
+  <g transform="translate(1000 137) rotate(13 54 54)"><rect width="108" height="108" rx="18" fill="#00c8f8" fill-opacity=".12" stroke="#00c8f8" stroke-width="6" filter="url(#glow)"/><rect width="108" height="108" rx="18" fill="#112e3a" fill-opacity=".7" stroke="#71e4ff" stroke-width="3"/><path d="M29 36H79L54 65Z" fill="#e5fbff"/></g>
+  <text x="62" y="75" fill="#00c8f8" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="5">BEAT SABER · STANDALONE QUEST</text>
+  <text x="58" y="158" fill="#f3f6ff" font-family="Arial, sans-serif" font-size="66" font-weight="800">QuestBloom</text>
+  <text x="63" y="206" fill="#aeb7d5" font-family="Arial, sans-serif" font-size="24">Bring the glow to Quest. Tune it your way.</text>
+  <rect x="62" y="245" width="176" height="34" rx="17" fill="#e147ac" fill-opacity=".12" stroke="#e147ac" stroke-opacity=".45"/>
+  <text x="150" y="267" text-anchor="middle" fill="#ffa1de" font-family="Arial, sans-serif" font-size="14" font-weight="700">WHOLE-GAME BLOOM</text>
+  <text x="258" y="267" fill="#9c9cb4" font-family="Arial, sans-serif" font-size="14">Intensity · Size · Quality</text>
+</svg>
